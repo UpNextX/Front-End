@@ -87,7 +87,7 @@ export default function Sidebar() {
       return;
     }
 
-    addItems(selectedProducts);
+   // addItems(selectedProducts);
 
     try {
       await Promise.all(
